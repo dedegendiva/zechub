@@ -18,7 +18,7 @@ No conflicts.
 
 | # | ID | English | Meaning | Occurrences | Seen today in `ig` pages | Proposed | ✅ Confirmed | Notes |
 |---|---|---|---|---:|---|---|---|---|
-| 1 | wallet | wallet | App or device that holds the keys to your coins and lets you send and receive them. | 1,694 | wallet (English) ×383, wallets (English) ×115 |  |  |  |
+| 1 | wallet | wallet | App or device that holds the keys to your coins and lets you send and receive them. | 1,694 | wallet (English) ×383, wallets (English) ×115 |obere akpa ego  | ok | literally meaning a "small money bag" |
 | 2 | shielded | shielded | Protected by Zcash's zero-knowledge encryption: a shielded address, transaction or pool hides sender, receiver and amount. Not: encrypted (generic). Translate 'encrypted' normally. | 1,433 | shielded (English) ×484, unshielded (English) ×3 | nke e chebere echebe |  |  |
 | 3 | transaction | transaction | A transfer of coins recorded on the blockchain. | 1,281 | transaction (English) ×213, transactions (English) ×180 |  |  |  |
 | 4 | address | address | A string that identifies where to send coins (shielded z-address, unified address, transparent t-address). Not: a street address, or 'to address' (speak to, deal with). | 1,140 | address (English) ×213, addresses (English) ×71 |  |  |  |
